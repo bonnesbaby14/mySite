@@ -1,0 +1,55 @@
+
+.masthead{
+ 
+
+    background:linear-gradient(rgba(22,22,22,.7) 75%,#161616 100%),url("/assets/nighsky.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    height: 100vh;
+    /* text-shadow: .1em .1em .2em rgba(0, 0, 0, 0.6); */
+}
+.letrag{
+font-family: 'Playball', cursive;
+font-size: 16rem;
+text-align: center;
+color: white;
+
+}
+
+.letrasheader{
+font-size: 3rem;
+text-align: center;
+color: white;
+
+font-family: 'Varela Round', sans-serif;
+}
+
+
+
+@media only screen and (max-width: 700px) {
+ .letrag{
+font-family: 'Playball', cursive;
+font-size: 12rem;
+text-align: center;
+color: white;
+
+}
+.letrasheader{
+font-size: 2rem;
+text-align: center;
+color: white;
+
+font-family: 'Varela Round', sans-serif;
+}
+}
+
+/* fuentes para las letras aqui las dejo */
+/* font-family: 'Monoton', cursive;
+font-family: 'Playball', cursive;
+font-family: 'Shadows Into Light Two', cursive;
+font-family: 'Abel', sans-serif;
+font-family: 'Varela Round', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Maven Pro', sans-serif;
+font-family: 'Cairo', sans-serif; */

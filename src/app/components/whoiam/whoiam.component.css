@@ -1,0 +1,11 @@
+#line{
+     border-color: #64a19d; border-width: .25rem; width: 30%;
+}
+.redonda{
+    width: 17rem;
+    height: 17rem;
+    border-radius: 250px;
+    display:block;
+margin:auto;
+
+}
