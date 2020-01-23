@@ -7,6 +7,7 @@ import { NavbarComponent } from "./components/navbar/navbar.component";
 import { HomeComponent } from './components/home/home.component';
 import { WhoiamComponent } from './components/whoiam/whoiam.component';
 import { TechnologiesComponent } from './components/technologies/technologies.component';
+import { ContactmeComponent } from './components/contactme/contactme.component';
 
 
 
@@ -21,6 +22,7 @@ import { TechnologiesComponent } from './components/technologies/technologies.co
     HomeComponent,
     WhoiamComponent,
     TechnologiesComponent,
+    ContactmeComponent,
 
   ],
   imports: [
