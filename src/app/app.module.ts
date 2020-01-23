@@ -8,6 +8,8 @@ import { HomeComponent } from './components/home/home.component';
 import { WhoiamComponent } from './components/whoiam/whoiam.component';
 import { TechnologiesComponent } from './components/technologies/technologies.component';
 import { ContactmeComponent } from './components/contactme/contactme.component';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+
 
 
 
@@ -27,7 +29,8 @@ import { ContactmeComponent } from './components/contactme/contactme.component';
   ],
   imports: [
     //se  cargan los modulos de la aplicacion
-    BrowserModule
+    BrowserModule,
+    BrowserAnimationsModule
   ],
   providers: [
     //aqui se cargan los servicios 
