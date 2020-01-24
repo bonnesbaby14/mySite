@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { trigger, style,state,transition,animate } from '@angular/animations';
 
+
+
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',

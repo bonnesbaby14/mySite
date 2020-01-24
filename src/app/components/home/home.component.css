@@ -34,6 +34,12 @@ font-size: 12rem;
 text-align: center;
 color: white;
 
+
+
+}
+.pmobile{
+margin-top: .5rem!important;
+    /* padding-top: 10px; */
 }
 .letrasheader{
 font-size: 2rem;
